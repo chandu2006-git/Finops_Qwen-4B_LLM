@@ -1,0 +1,45 @@
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Model weights and large datasets
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+*.zip
+*.parquet
+*.csv
+*.jsonl
+
+# Local model and dataset folders
+FinOps Data layers/
+FinOps_LoRA_adapters/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
