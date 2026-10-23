@@ -7,13 +7,7 @@ analysis, and cloud cost optimization.
 **Hugging Face adapter:**
 [Chandu06/finops-qwen3-4b](https://huggingface.co/Chandu06/finops-qwen3-4b)
 
-```{=html}
-<p align="center">
-```
-`<img src="Finops_tuning_architecture.png" alt="FinOps LLM architecture: Qwen3-4B with a LoRA adapter for cloud cost optimization" width="100%">`{=html}
-```{=html}
-</p>
-```
+
 > **Project status:** The LoRA adapter is published on Hugging Face, and
 > inference was tested in a Kaggle GPU environment. This repository is a
 > portfolio/research project. A persistent public API, production
